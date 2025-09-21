@@ -304,8 +304,6 @@ If you encounter problems:
 
 **Skrauch Vladislav Igorevich**
 
-*Python Developer & Data Analyst*
-
 📧 Email: skrauch@example.com
 🌐 GitHub: [github.com/skrauch](https://github.com/skrauch)
 💼 LinkedIn: [linkedin.com/in/skrauch](https://linkedin.com/in/skrauch)
