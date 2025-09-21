@@ -1,0 +1,213 @@
+# 📋 ЛИЦЕНЗИЯ ИСПОЛЬЗОВАНИЯ MARKETSCOPE
+# ТОЛЬКО ДЛЯ ОБРАЗОВАТЕЛЬНОГО И ЛИЧНОГО ИСПОЛЬЗОВАНИЯ
+
+**Copyright © 2025 Скрауч Владислав Игоревич. Все права защищены.**
+
+**Автор и правообладатель:** Скрауч Владислав Игоревич (далее "Правообладатель")
+
+---
+
+## ⚠️ ВАЖНОЕ УВЕДОМЛЕНИЕ
+
+**Это программное обеспечение собирает данные с hh.ru (HeadHunter), коммерческой платформы поиска работы. Пользователи обязаны соблюдать Условия использования hh.ru и уважать их файл robots.txt.**
+
+---
+
+## ✅ РАЗРЕШЕНО (БЕСПЛАТНО)
+
+1. **ОБРАЗОВАТЕЛЬНОЕ ИСПОЛЬЗОВАНИЕ**
+   - Изучение кода для обучения
+   - Понимание методов веб-скрапинга
+   - Академические исследования и анализ
+   - Демонстрация навыков программирования в портфолио
+
+2. **ЛИЧНОЕ ИСПОЛЬЗОВАНИЕ**
+   - Поиск работы для личного трудоустройства
+   - Анализ тенденций рынка труда для личного карьерного планирования
+   - Тестирование функциональности в среде разработки
+
+3. **ИЗУЧЕНИЕ КОДА**
+   - Чтение и анализ исходного кода
+   - Понимание архитектуры программного обеспечения
+   - Изучение шаблонов программирования на Python
+
+## ❌ СТРОГО ЗАПРЕЩЕНО
+
+1. **КОММЕРЧЕСКОЕ ИСПОЛЬЗОВАНИЕ**
+   - Использование в бизнесе или для получения прибыли
+   - Интеграция в коммерческие продукты или услуги
+   - Предоставление услуг скрапинга третьим лицам
+   - Использование данных для коммерческого анализа или отчетности
+
+2. **МАССОВЫЙ СБОР ДАННЫХ**
+   - Автоматизированный сбор больших объемов данных
+   - Создание баз данных для коммерческих целей
+   - Систематическое извлечение данных сверх личных потребностей
+   - Обход ограничений скорости hh.ru
+
+3. **РАСПРОСТРАНЕНИЕ**
+   - Распространение измененных версий программного обеспечения
+   - Создание производных работ для распространения
+   - Публикация форков без разрешения
+   - Использование кода в других проектах без атрибуции
+
+4. **ЗЛОУПОТРЕБЛЕНИЕ СЕРВИСОМ**
+   - Перегрузка серверов hh.ru запросами
+   - Обход мер защиты от ботов
+   - Нарушение Условий использования hh.ru
+   - Вмешательство в нормальную работу hh.ru
+
+## 📝 ОБЯЗАТЕЛЬНЫЕ ТРЕБОВАНИЯ
+
+1. **АТРИБУЦИЯ**
+   - Всегда указывать оригинального автора: "Скрауч Владислав Игоревич"
+   - Включать ссылку на оригинальный репозиторий при распространении
+   - Сохранять уведомления об авторстве во всех копиях
+
+2. **СОБЛЮДЕНИЕ ПРАВИЛ HH.RU**
+   - Уважать файл robots.txt hh.ru
+   - Соблюдать разумные частоты запросов
+   - Не вмешиваться в работу сервисов hh.ru
+   - Соблюдать Условия использования hh.ru
+
+3. **ОТВЕТСТВЕННОЕ ИСПОЛЬЗОВАНИЕ**
+   - Использовать только для законных личных или образовательных целей
+   - Не собирать чрезмерные объемы данных
+   - Уважать конфиденциальность данных и интеллектуальную собственность
+   - Быть внимательным к нагрузке на серверы
+
+## 🔄 ПРАВА И МОДИФИКАЦИИ
+
+- Только Правообладатель может изменять условия лицензии
+- Разрешение на коммерческое использование должно быть получено в письменной форме
+- Образовательные учреждения могут запрашивать специальные разрешения
+- Правообладатель оставляет за собой все права, не предоставленные явно
+
+## ⚖️ ПОСЛЕДСТВИЯ НАРУШЕНИЯ
+
+**НАРУШЕНИЕ ЛИЦЕНЗИИ ИЛИ УСЛОВИЙ HH.RU МОЖЕТ ПРИВЕСТИ К:**
+
+- Немедленному прекращению прав использования
+- Юридическим действиям от hh.ru или Правообладателя
+- Приостановке аккаунта на hh.ru
+- Гражданским и уголовным штрафам (в тяжелых случаях)
+- Ущербу профессиональной репутации
+
+## 📞 КОНТАКТЫ
+
+Для запросов разрешений или вопросов:
+
+**Email:** skrauch@example.com
+**GitHub:** github.com/skrauch
+**LinkedIn:** linkedin.com/in/skrauch
+
+---
+
+## 📄 ENGLISH VERSION
+
+# 📋 MARKETSCOPE USAGE LICENSE
+# EDUCATIONAL AND PERSONAL USE ONLY
+
+**Copyright © 2025 Skrauch Vladislav Igorevich. All rights reserved.**
+
+**Author and Copyright Holder:** Skrauch Vladislav Igorevich (hereinafter "Copyright Holder")
+
+---
+
+## ⚠️ IMPORTANT NOTICE
+
+**This software scrapes data from hh.ru (HeadHunter), a commercial job search platform. Users must comply with hh.ru's Terms of Service and respect their robots.txt file.**
+
+---
+
+## ✅ PERMITTED (FREE)
+
+1. **EDUCATIONAL USE**
+   - Studying the code for learning purposes
+   - Understanding web scraping techniques
+   - Academic research and analysis
+   - Demonstrating programming skills in portfolio
+
+2. **PERSONAL USE**
+   - Job searching for personal employment
+   - Analyzing job market trends for personal career planning
+   - Testing functionality in a development environment
+
+3. **CODE STUDY**
+   - Reading and analyzing the source code
+   - Understanding software architecture
+   - Learning Python programming patterns
+
+## ❌ STRICTLY PROHIBITED
+
+1. **COMMERCIAL USE**
+   - Using for business purposes or profit generation
+   - Integration into commercial products or services
+   - Providing scraping services to third parties
+   - Using data for commercial analysis or reporting
+
+2. **MASS DATA COLLECTION**
+   - Automated scraping of large volumes of data
+   - Creating databases for commercial purposes
+   - Systematic data extraction beyond personal needs
+   - Bypassing hh.ru rate limits or restrictions
+
+3. **REDISTRIBUTION**
+   - Sharing modified versions of the software
+   - Creating derivative works for distribution
+   - Publishing forks without permission
+   - Using code in other projects without attribution
+
+4. **SERVICE ABUSE**
+   - Overloading hh.ru servers with requests
+   - Circumventing anti-bot measures
+   - Violating hh.ru Terms of Service
+   - Interfering with hh.ru normal operations
+
+## 📝 MANDATORY REQUIREMENTS
+
+1. **ATTRIBUTION**
+   - Always credit the original author: "Skrauch Vladislav Igorevich"
+   - Include link to original repository when sharing
+   - Maintain copyright notices in all copies
+
+2. **HH.RU COMPLIANCE**
+   - Respect hh.ru's robots.txt file
+   - Follow reasonable request rates
+   - Do not interfere with hh.ru services
+   - Comply with hh.ru Terms of Service
+
+3. **RESPONSIBLE USE**
+   - Use only for legitimate personal or educational purposes
+   - Do not collect excessive amounts of data
+   - Respect data privacy and intellectual property
+   - Be mindful of server load and resources
+
+## 🔄 RIGHTS AND MODIFICATIONS
+
+- Only the Copyright Holder can modify license terms
+- Permission for commercial use must be obtained in writing
+- Educational institutions may request special permissions
+- Copyright Holder reserves all rights not explicitly granted
+
+## ⚖️ CONSEQUENCES OF VIOLATION
+
+**VIOLATION OF THIS LICENSE OR HH.RU TERMS MAY RESULT IN:**
+
+- Immediate termination of usage rights
+- Legal action from hh.ru or Copyright Holder
+- Account suspension on hh.ru
+- Civil and criminal penalties (in severe cases)
+- Damage to professional reputation
+
+## 📞 CONTACTS
+
+For permission requests or questions:
+
+**Email:** skrauch@example.com
+**GitHub:** github.com/skrauch
+**LinkedIn:** linkedin.com/in/skrauch
+
+---
+
+**© 2025 Скрауч Владислав Игоревич. Только для образовательного и личного использования. Коммерческое использование и массовый сбор данных запрещены.**
