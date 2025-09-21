@@ -302,8 +302,6 @@ If you encounter problems:
 
 ![Signature](static/signature.png)
 
-**Skrauch Vladislav Igorevich**
-
 📧 Email: vlskrauch@mail.ru
 🌐 Email: @worksoto
 
