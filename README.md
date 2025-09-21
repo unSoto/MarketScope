@@ -303,7 +303,7 @@ If you encounter problems:
 ![Signature](static/signature.png)
 
 📧 Email: vlskrauch@mail.ru
-🌐 Email: @worksoto
+🌐 Email: [@worksoto](https://t.me/worksoto)
 
 ---
 
