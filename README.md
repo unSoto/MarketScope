@@ -290,9 +290,8 @@ If you encounter problems:
 5. Refer to the hh.ru robots.txt file for scraping guidelines
 
 ### Getting Help:
-- **Email**: skrauch@example.com
-- **GitHub**: github.com/skrauch
-- **LinkedIn**: linkedin.com/in/skrauch
+- **Email**: vlskrauch@mail.ru
+- **Telegram**: [@worksoto](https://t.me/worksoto)
 
 ---
 
